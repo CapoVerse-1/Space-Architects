@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+
+# Local launchers, working notes and reference-only source files.
+START.command
+docs/
+src/vendor/
+src/asset-map.json
+src/source-pages.json
+src/source.css
+src/source-inline.css
+src/original.css

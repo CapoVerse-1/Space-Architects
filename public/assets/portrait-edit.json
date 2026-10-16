@@ -1,0 +1,12 @@
+{
+  "asset": "Karim-Ahrari-portrait-v2.png",
+  "kind": "user-selected AI edited portrait",
+  "tool": "built-in ImageGen",
+  "source_photo": "Karim-Ahrari.jpg",
+  "framing_reference": "Taras-Shandalovych.jpg",
+  "width": 1254,
+  "height": 1254,
+  "sha256": "494e23e3cb727518972a1329ed26f0e9fc3cc7a8626f5dc53d1698b38e4e016b",
+  "documentation": "../../ASSETS.md",
+  "selection": "First edited version restored at explicit user request. No further portrait edits or generations."
+}

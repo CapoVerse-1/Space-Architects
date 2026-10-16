@@ -1,0 +1,964 @@
+{
+  "projects": [
+    {
+      "path": "/portfolio/1070-wien-zollergasse/",
+      "title": "1070 Wien, Zollergasse",
+      "category": "Aktuelle Projekte",
+      "image": "/assets/1070-Wien-Zollergasse-7-Foto-1.jpg",
+      "banner": "/assets/1070-Wien-Zollergasse-7-Foto-1.jpg",
+      "description": [
+        "Komplettsanierung des gesamten Hauses inkl. Dachausbau Highlights: Concierge Service, Gründach, Fußgängerzone, exklusive Topausführung, einzigartiges Lichtkonzept."
+      ],
+      "facts": [
+        ["Fertigstellung", "Herbst 2023"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-1.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-1"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-3.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-3"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-5.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-5"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-7.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-7"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-9.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-9"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-11.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-11"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-13.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-13"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-15.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-15"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-17.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-17"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-19.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-19"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-21.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-21"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-23.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-23"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-2.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-2"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-4.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-4"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-6.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-6"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-8.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-8"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-10.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-10"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-12.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-12"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-14.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-14"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-16.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-16"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-18.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-18"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-20.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-20"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-22.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-22"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-24.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-24"
+        },
+        {
+          "src": "/assets/1070-Wien-Zollergasse-7-Foto-24.jpg",
+          "alt": "1070-Wien,-Zollergasse-7—Foto-24"
+        }
+      ],
+      "marketing": true,
+      "video": ["https://vimeo.com/51589652"]
+    },
+    {
+      "path": "/portfolio/1160-wien-grundsteingasse/",
+      "title": "1160 Wien, Grundsteingasse",
+      "category": "Aktuelle Projekte",
+      "image": "/assets/exterior_gg_05-333.jpg",
+      "banner": "/assets/photo1680525218-e1737468170594.jpeg",
+      "description": ["Komplettsanierung des gesamten Hauses inkl. Dachausbau"],
+      "facts": [
+        ["Fertigstellung", "Herbst 2023"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/GG38_2_cam_03_02-2back2.jpg",
+          "alt": "GG38_2_cam_03_02 2+back2"
+        },
+        {
+          "src": "/assets/gg38_4_cam_01-3back2.jpg",
+          "alt": "gg38_4_cam_01 3+back2"
+        },
+        {
+          "src": "/assets/gg38_3_cam_03-2.jpg",
+          "alt": "gg38_3_cam_03 2"
+        },
+        {
+          "src": "/assets/gg38_4_cam_02-3back2.jpg",
+          "alt": "gg38_4_cam_02 3+back2"
+        },
+        {
+          "src": "/assets/gg38_3_cam_01-3back2.jpg",
+          "alt": "gg38_3_cam_01 3+back2"
+        },
+        {
+          "src": "/assets/GG38_2_cam_03_01-2.jpg",
+          "alt": "GG38_2_cam_03_01 2"
+        }
+      ],
+      "marketing": true,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1170-wien-leopold-ernstgasse/",
+      "title": "1170 Wien, Leopold Ernstgasse",
+      "category": "Referenzen",
+      "image": "/assets/1170-Wien-Leopold-Ernstgasse-40-Foto-0.jpg",
+      "banner": "/assets/1170-Wien-Leopold-Ernstgasse-40-Foto-2.jpg",
+      "description": ["Komplettsanierung des gesamten Hauses."],
+      "facts": [
+        ["Fertigstellung", "2016"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/1170-Wien-Leopold-Ernstgasse-40-Foto-6.jpg",
+          "alt": "1170-Wien,-Leopold-Ernstgasse-40—Foto-6"
+        },
+        {
+          "src": "/assets/1170-Wien-Leopold-Ernstgasse-40-Foto-4.jpg",
+          "alt": "1170-Wien,-Leopold-Ernstgasse-40—Foto-4"
+        },
+        {
+          "src": "/assets/1170-Wien-Leopold-Ernstgasse-40-Foto-1.jpg",
+          "alt": "1170-Wien,-Leopold-Ernstgasse-40—Foto-1"
+        },
+        {
+          "src": "/assets/1170-Wien-Leopold-Ernstgasse-40-Foto-5.jpg",
+          "alt": "1170-Wien,-Leopold-Ernstgasse-40—Foto-5"
+        },
+        {
+          "src": "/assets/1170-Wien-Leopold-Ernstgasse-40-Foto-3.jpg",
+          "alt": "1170-Wien,-Leopold-Ernstgasse-40—Foto-3"
+        },
+        {
+          "src": "/assets/1170-Wien-Leopold-Ernstgasse-40-Foto-2.jpg",
+          "alt": "1170-Wien,-Leopold-Ernstgasse-40—Foto-2"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1130-wien-hietzinger-hauptstrasse/",
+      "title": "1130 Wien, Hietzinger Hauptstraße",
+      "category": "Referenzen",
+      "image": "/assets/1130-Wien-Hietzinger-Hauptstrasse-148-Foto-1.jpg",
+      "banner": "/assets/1130-Wien-Hietzinger-Hauptstrasse-148-Foto-1.jpg",
+      "description": [
+        "Komplettsanierung des gesamten Hauses inkl. Dachausbau."
+      ],
+      "facts": [
+        ["Fertigstellung", "2015"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/1130-Wien-Hietzinger-Hauptstrasse-148-Foto-1.jpg",
+          "alt": "1130-Wien,-Hietzinger-Hauptstraße-148—Foto-1"
+        },
+        {
+          "src": "/assets/1130-Wien-Hietzinger-Hauptstrasse-148-Foto-3.jpg",
+          "alt": "1130-Wien,-Hietzinger-Hauptstraße-148—Foto-3"
+        },
+        {
+          "src": "/assets/1130-Wien-Hietzinger-Hauptstrasse-148-Foto-2.jpg",
+          "alt": "1130-Wien,-Hietzinger-Hauptstraße-148—Foto-2"
+        },
+        {
+          "src": "/assets/1130-Wien-Hietzinger-Hauptstrasse-148-Foto-4.jpg",
+          "alt": "1130-Wien,-Hietzinger-Hauptstraße-148—Foto-4"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1190-wien-sollingergasse/",
+      "title": "1190 Wien, Sollingergasse",
+      "category": "Referenzen",
+      "image": "/assets/1190-Wien-Sollingergasse-23-Foto-1-1.jpg",
+      "banner": "/assets/1190-Wien-Sollingergasse-23-Foto-1-1.jpg",
+      "description": [
+        "Komplettsanierung des gesamten Hauses inkl. Dachausbau."
+      ],
+      "facts": [
+        ["Fertigstellung", "2015"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-1-1.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-1"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-4a-1.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-4a"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-8.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-8"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-10-1.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-10"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-11a.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-11a"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-11c.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-11c"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-13-1.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-13"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-16c.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-16c"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-2-1.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-2"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-7-1.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-7"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-9-1.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-9"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-11-1.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-11"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-11b.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-11b"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-12-1.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-12"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-16b.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-16b"
+        },
+        {
+          "src": "/assets/1190-Wien-Sollingergasse-23-Foto-18-1.jpg",
+          "alt": "1190-Wien,-Sollingergasse-23,-Foto-18"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1090-wien-marianengasse/",
+      "title": "1090 Wien, Marianengasse",
+      "category": "Referenzen",
+      "image": "/assets/1090-Wien-Marianengasse-17-Foto-1.jpg",
+      "banner": "/assets/1090-Wien-Marianengasse-17-Foto-1.jpg",
+      "description": ["Komplettsanierung des gesamten Hauses inkl. Dachausbau"],
+      "facts": [
+        ["Fertigstellung", "2015"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/1090-Wien-Marianengasse-17-Foto-1.jpg",
+          "alt": "1090-Wien,-Marianengasse-17-Foto-1"
+        },
+        {
+          "src": "/assets/1090-Wien-Marianengasse-17-Foto-3.jpg",
+          "alt": "1090-Wien,-Marianengasse-17-Foto-3"
+        },
+        {
+          "src": "/assets/1090-Wien-Marianengasse-17-Foto-5.jpg",
+          "alt": "1090-Wien,-Marianengasse-17-Foto-5"
+        },
+        {
+          "src": "/assets/1090-Wien-Marianengasse-17-Foto-7.jpg",
+          "alt": "1090-Wien,-Marianengasse-17-Foto-7"
+        },
+        {
+          "src": "/assets/1090-Wien-Marianengasse-17-Foto-2.jpg",
+          "alt": "1090-Wien,-Marianengasse-17-Foto-2"
+        },
+        {
+          "src": "/assets/1090-Wien-Marianengasse-17-Foto-4.jpg",
+          "alt": "1090-Wien,-Marianengasse-17-Foto-4"
+        },
+        {
+          "src": "/assets/1090-Wien-Marianengasse-17-Foto-6.jpg",
+          "alt": "1090-Wien,-Marianengasse-17-Foto-6"
+        },
+        {
+          "src": "/assets/1090-Wien-Marianengasse-17-Foto-8.jpg",
+          "alt": "1090-Wien,-Marianengasse-17-Foto-8"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1180-wien-weimarer-strasse/",
+      "title": "1180 Wien, Weimarer Straße",
+      "category": "Referenzen",
+      "image": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-2.jpg",
+      "banner": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-2.jpg",
+      "description": ["Dachausbau"],
+      "facts": [
+        ["Fertigstellung", "2014"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Dachausbau"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/Weimarerstrasse-12-Foto-2.jpg",
+          "alt": "Weimarerstrasse-12,-Foto-2"
+        },
+        {
+          "src": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-2.jpg",
+          "alt": "1180-Wien,-Weimarer-Straße-12-Foto-2"
+        },
+        {
+          "src": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-3.jpg",
+          "alt": "1180-Wien,-Weimarer-Straße-12-Foto-3"
+        },
+        {
+          "src": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-5.jpg",
+          "alt": "1180-Wien,-Weimarer-Straße-12-Foto-5"
+        },
+        {
+          "src": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-7.jpg",
+          "alt": "1180-Wien,-Weimarer-Straße-12-Foto-7"
+        },
+        {
+          "src": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-9.jpg",
+          "alt": "1180-Wien,-Weimarer-Straße-12-Foto-9"
+        },
+        {
+          "src": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-11.jpg",
+          "alt": "1180-Wien,-Weimarer-Straße-12-Foto-11"
+        },
+        {
+          "src": "/assets/Weimarerstrasse-12.jpg",
+          "alt": "Weimarerstrasse-12"
+        },
+        {
+          "src": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-1.jpg",
+          "alt": "1180-Wien,-Weimarer-Straße-12-Foto-1"
+        },
+        {
+          "src": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-4.jpg",
+          "alt": "1180-Wien,-Weimarer-Straße-12-Foto-4"
+        },
+        {
+          "src": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-6.jpg",
+          "alt": "1180-Wien,-Weimarer-Straße-12-Foto-6"
+        },
+        {
+          "src": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-8.jpg",
+          "alt": "1180-Wien,-Weimarer-Straße-12-Foto-8"
+        },
+        {
+          "src": "/assets/1180-Wien-Weimarer-Strasse-12-Foto-10.jpg",
+          "alt": "1180-Wien,-Weimarer-Straße-12-Foto-10"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1170-wien-dornbacher-strasse/",
+      "title": "1170 Wien, Dornbacher Straße",
+      "category": "Referenzen",
+      "image": "/assets/1170-Wien-Dornbacher-Strasse-103-Foto-0.jpg",
+      "banner": "/assets/d3cc7ac7-1170-Wien-Dornbacher-Strasse-103-Foto-1.jpg",
+      "description": [
+        "Komplettsanierung des gesamten Hauses inkl. Dachausbau."
+      ],
+      "facts": [
+        ["Fertigstellung", "2012"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/1170-Wien-Dornbacher-Strasse-103-Foto-0.jpg",
+          "alt": "1170-Wien,-Dornbacher-Straße-103—Foto–0"
+        },
+        {
+          "src": "/assets/1170-Wien-Dornbacher-Strasse-103-Foto-2.jpg",
+          "alt": "1170-Wien,-Dornbacher-Straße-103—Foto–2"
+        },
+        {
+          "src": "/assets/1170-Wien-Dornbacher-Strasse-103-Foto-3.jpg",
+          "alt": "1170-Wien,-Dornbacher-Straße-103—Foto–3"
+        },
+        {
+          "src": "/assets/1170-Wien-Dornbacher-Strasse-103-Foto-5.jpg",
+          "alt": "1170-Wien,-Dornbacher-Straße-103—Foto–5"
+        },
+        {
+          "src": "/assets/1170-Wien-Dornbacher-Strasse-103-Foto-10.jpg",
+          "alt": "1170-Wien,-Dornbacher-Straße-103—Foto–10"
+        },
+        {
+          "src": "/assets/1170-Wien-Dornbacher-Strasse-103-Foto-01.jpg",
+          "alt": "1170-Wien,-Dornbacher-Straße-103—Foto–01"
+        },
+        {
+          "src": "/assets/1170-Wien-Dornbacher-Strasse-103-Foto-1.jpg",
+          "alt": "1170-Wien,-Dornbacher-Straße-103—Foto–1"
+        },
+        {
+          "src": "/assets/1170-Wien-Dornbacher-Strasse-103-Foto-4.jpg",
+          "alt": "1170-Wien,-Dornbacher-Straße-103—Foto–4"
+        },
+        {
+          "src": "/assets/1170-Wien-Dornbacher-Strasse-103-Foto-6.jpg",
+          "alt": "1170-Wien,-Dornbacher-Straße-103—Foto–6"
+        },
+        {
+          "src": "/assets/1170-Wien-Dornbacher-Strasse-103-Foto-11.jpg",
+          "alt": "1170-Wien,-Dornbacher-Straße-103—Foto–11"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1210-wien-anton-anderer-platz/",
+      "title": "1210 Wien, Anton Anderer Platz",
+      "category": "Referenzen",
+      "image": "/assets/Anton-Anderer-Platz-6-Foto-2.jpg",
+      "banner": "/assets/Anton-Anderer-Platz-6-Foto-2.jpg",
+      "description": ["Projektierung – Entwicklung"],
+      "facts": [
+        ["Fertigstellung", "2011"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Entwicklung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/Anton-Anderer-Platz-6-Foto-2.jpg",
+          "alt": "Anton-Anderer-Platz-6,-Foto-2"
+        },
+        {
+          "src": "/assets/1210-Wien-Anton-Anderer-Platz-6-Foto-1.jpg",
+          "alt": "1210-Wien,-Anton-Anderer-Platz-6—Foto-1"
+        },
+        {
+          "src": "/assets/1210-Wien-Anton-Anderer-Platz-6-Foto-3.jpg",
+          "alt": "1210-Wien,-Anton-Anderer-Platz-6—Foto-3"
+        },
+        {
+          "src": "/assets/Anton-Anderer-Platz-6.jpg",
+          "alt": "Anton-Anderer-Platz-6"
+        },
+        {
+          "src": "/assets/1210-Wien-Anton-Anderer-Platz-6-Foto-2.jpg",
+          "alt": "1210-Wien,-Anton-Anderer-Platz-6—Foto-2"
+        },
+        {
+          "src": "/assets/1210-Wien-Anton-Anderer-Platz-6-Foto-4.jpg",
+          "alt": "1210-Wien,-Anton-Anderer-Platz-6—Foto-4"
+        },
+        {
+          "src": "/assets/1210-Wien-Anton-Anderer-Platz-6-Foto-6.jpg",
+          "alt": "1210-Wien,-Anton-Anderer-Platz-6—Foto-6"
+        },
+        {
+          "src": "/assets/1210-Wien-Anton-Anderer-Platz-6-Foto-5.jpg",
+          "alt": "1210-Wien,-Anton-Anderer-Platz-6—Foto-5"
+        },
+        {
+          "src": "/assets/1210-Wien-Anton-Anderer-Platz-6-Foto-7.jpg",
+          "alt": "1210-Wien,-Anton-Anderer-Platz-6—Foto-7"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1090-wien-loeblichgasse/",
+      "title": "1090 Wien, Löblichgasse",
+      "category": "Referenzen",
+      "image": "/assets/Loeblichgasse-8-Foto-0.jpg",
+      "banner": "/assets/Loeblichgasse-8-Foto-0.jpg",
+      "description": ["Komplettsanierung des gesamten Hauses"],
+      "facts": [
+        ["Fertigstellung", "2010"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/Loeblichgasse-8-Foto-2.jpg",
+          "alt": "Löblichgasse-8,-Foto-2"
+        },
+        {
+          "src": "/assets/Loeblichgasse-8-Foto-3.jpg",
+          "alt": "Löblichgasse-8,-Foto-3"
+        },
+        {
+          "src": "/assets/Loeblichgasse-8.jpg",
+          "alt": "Löblichgasse-8"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1090-wien-simon-denk-gasse/",
+      "title": "1090 Wien, Simon Denk Gasse",
+      "category": "Referenzen",
+      "image": "/assets/1090-Wien-Simon-Denk-Gasse-1-3-Foto-1.jpg",
+      "banner": "/assets/1090-Wien-Simon-Denk-Gasse-1-3-Foto-1.jpg",
+      "description": ["Sanierung mehrerer Wohneinheiten"],
+      "facts": [
+        ["Fertigstellung", "2009"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/1090-Wien-Simon-Denk-Gasse-1-3-Foto-1.jpg",
+          "alt": "1090-Wien,-Simon-Denk-Gasse-1-3—Foto-1"
+        },
+        {
+          "src": "/assets/1090-Wien-Simon-Denk-Gasse-1-3-Foto-3.jpg",
+          "alt": "1090-Wien,-Simon-Denk-Gasse-1-3—Foto-3"
+        },
+        {
+          "src": "/assets/1090-Wien-Simon-Denk-Gasse-1-3-Foto-5.jpg",
+          "alt": "1090-Wien,-Simon-Denk-Gasse-1-3—Foto-5"
+        },
+        {
+          "src": "/assets/1090-Wien-Simon-Denk-Gasse-1-3-Foto-2.jpg",
+          "alt": "1090-Wien,-Simon-Denk-Gasse-1-3—Foto-2"
+        },
+        {
+          "src": "/assets/1090-Wien-Simon-Denk-Gasse-1-3-Foto-4.jpg",
+          "alt": "1090-Wien,-Simon-Denk-Gasse-1-3—Foto-4"
+        },
+        {
+          "src": "/assets/1090-Wien-Simon-Denk-Gasse-1-3-Foto-6.jpg",
+          "alt": "1090-Wien,-Simon-Denk-Gasse-1-3—Foto-6"
+        },
+        {
+          "src": "/assets/1090-Wien-Simon-Denk-Gasse-1-3-Foto-8.jpg",
+          "alt": "1090-Wien,-Simon-Denk-Gasse-1-3—Foto-8"
+        },
+        {
+          "src": "/assets/1090-Wien-Simon-Denk-Gasse-1-3-Foto-7.jpg",
+          "alt": "1090-Wien,-Simon-Denk-Gasse-1-3—Foto-7"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1080-wien-lange-gasse/",
+      "title": "1080 Wien, Lange Gasse",
+      "category": "Referenzen",
+      "image": "/assets/1080-Wien-Lange-Gasse-32-Foto-2.jpg",
+      "banner": "/assets/1080-Wien-Lange-Gasse-32-Foto-2.jpg",
+      "description": ["Sanierung mehrerer Wohneinheiten"],
+      "facts": [
+        ["Fertigstellung", "2009"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/1080-Wien-Lange-Gasse-32-Foto-2.jpg",
+          "alt": "1080-Wien,-Lange-Gasse-32–Foto-2"
+        },
+        {
+          "src": "/assets/1080-Wien-Lange-Gasse-32-Foto-3.jpg",
+          "alt": "1080-Wien,-Lange-Gasse-32–Foto-3"
+        },
+        {
+          "src": "/assets/1080-Wien-Lange-Gasse-32-Foto-5.jpg",
+          "alt": "1080-Wien,-Lange-Gasse-32–Foto-5"
+        },
+        {
+          "src": "/assets/1080-Wien-Lange-Gasse-32-Foto-1.jpg",
+          "alt": "1080-Wien,-Lange-Gasse-32–Foto-1"
+        },
+        {
+          "src": "/assets/1080-Wien-Lange-Gasse-32-Foto-3b.jpg",
+          "alt": "1080-Wien,-Lange-Gasse-32–Foto-3b"
+        },
+        {
+          "src": "/assets/1080-Wien-Lange-Gasse-32-Foto-4.jpg",
+          "alt": "1080-Wien,-Lange-Gasse-32–Foto-4"
+        },
+        {
+          "src": "/assets/1080-Wien-Lange-Gasse-32-Foto-6.jpg",
+          "alt": "1080-Wien,-Lange-Gasse-32–Foto-6"
+        },
+        {
+          "src": "/assets/1080-Wien-Lange-Gasse-32-Foto-7.jpg",
+          "alt": "1080-Wien,-Lange-Gasse-32–Foto-7"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1040-wien-wiedner-hauptstrasse/",
+      "title": "1040 Wien, Wiedner Hauptstraße",
+      "category": "Referenzen",
+      "image": "/assets/1040-Wien-Wiedner-Hauptstr-45-Foto-3.jpg",
+      "banner": "/assets/1040-Wien-Wiedner-Hauptstr-45-Foto-1.jpg",
+      "description": ["Sanierung mehrerer Wohneinheiten"],
+      "facts": [
+        ["Fertigstellung", "2008"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/1040-Wien-Wiedner-Hauptstr-45-Foto-3.jpg",
+          "alt": "1040-Wien,-Wiedner-Hauptstr-45–Foto-3"
+        },
+        {
+          "src": "/assets/1040-Wien-Wiedner-Hauptstr-45-Foto-1.jpg",
+          "alt": "1040-Wien,-Wiedner-Hauptstr-45–Foto-1"
+        },
+        {
+          "src": "/assets/1040-Wien-Wiedner-Hauptstr-45-Foto-2.jpg",
+          "alt": "1040-Wien,-Wiedner-Hauptstr-45–Foto-2"
+        },
+        {
+          "src": "/assets/1040-Wien-Wiedner-Hauptstr-45-Foto-3b.jpg",
+          "alt": "1040-Wien,-Wiedner-Hauptstr-45–Foto-3b"
+        },
+        {
+          "src": "/assets/1040-Wien-Wiedner-Hauptstr-45-Foto-5.jpg",
+          "alt": "1040-Wien,-Wiedner-Hauptstr-45–Foto-5"
+        },
+        {
+          "src": "/assets/1040-Wien-Wiedner-Hauptstr-45-Foto-4.jpg",
+          "alt": "1040-Wien,-Wiedner-Hauptstr-45–Foto-4"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1010-wien-weihburggasse/",
+      "title": "1010 Wien, Weihburggasse",
+      "category": "Referenzen",
+      "image": "/assets/1010-Wien-Weihburggasse-22-Foto-1.jpg",
+      "banner": "/assets/1010-Wien-Weihburggasse-22-Foto-1.jpg",
+      "description": ["Komplettsanierung + Einrichtung"],
+      "facts": [
+        ["Fertigstellung", "2007"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-1.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22—-Foto-1"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-4.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22—-Foto-4"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-5.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22—-Foto-5"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-7.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22—-Foto-7"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-9.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22—-Foto-9"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-2.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22—-Foto-2"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-3.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22—-Foto-3"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-6.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22—-Foto-6"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-8.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22—-Foto-8"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-10.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22—-Foto-10"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-1s.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22-Foto-1s"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-4s.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22-Foto-4s"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-11.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22—-Foto-11"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-2s.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22-Foto-2s"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-5s.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22-Foto-5s"
+        },
+        {
+          "src": "/assets/1010-Wien-Weihburggasse-22-Foto-12.jpg",
+          "alt": "1010-Wien,-Weihburggasse-22—-Foto-12"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    },
+    {
+      "path": "/portfolio/1040-wien-rainergasse/",
+      "title": "1040 Wien, Rainergasse",
+      "category": "Referenzen",
+      "image": "/assets/1040-Wien-Rainergasse-14-Foto-1.jpg",
+      "banner": "/assets/1040-Wien-Rainergasse-14-Foto-1.jpg",
+      "description": ["Komplettsanierung des gesamten Hauses"],
+      "facts": [
+        ["Fertigstellung", "2006"],
+        ["Objekt", "Wohnhaus"],
+        ["Auftrag", "Sanierung"],
+        ["Fotos", "© SA-I Immobilien"]
+      ],
+      "photos": [
+        {
+          "src": "/assets/Rainergasse-14-Foto-2.jpg",
+          "alt": "Rainergasse-14,-Foto-2"
+        },
+        {
+          "src": "/assets/1040-Wien-Rainergasse-14-Foto-1.jpg",
+          "alt": "1040-Wien,-Rainergasse–14-Foto-1"
+        },
+        {
+          "src": "/assets/1040-Wien-Rainergasse-14-Foto-3.jpg",
+          "alt": "1040-Wien,-Rainergasse–14-Foto-3"
+        },
+        {
+          "src": "/assets/Rainergasse-14.jpg",
+          "alt": "Rainergasse-14"
+        },
+        {
+          "src": "/assets/1040-Wien-Rainergasse-14-Foto-2.jpg",
+          "alt": "1040-Wien,-Rainergasse–14-Foto-2"
+        },
+        {
+          "src": "/assets/1040-Wien-Rainergasse-14-Foto-4.jpg",
+          "alt": "1040-Wien,-Rainergasse–14-Foto-4"
+        },
+        {
+          "src": "/assets/1040-Wien-Rainergasse-14-Foto-6.jpg",
+          "alt": "1040-Wien,-Rainergasse–14-Foto-6"
+        },
+        {
+          "src": "/assets/1040-Wien-Rainergasse-14-Foto-8.jpg",
+          "alt": "1040-Wien,-Rainergasse–14-Foto-8"
+        },
+        {
+          "src": "/assets/1040-Wien-Rainergasse-14-Foto-5.jpg",
+          "alt": "1040-Wien,-Rainergasse–14-Foto-5"
+        }
+      ],
+      "marketing": false,
+      "video": []
+    }
+  ],
+  "services": [
+    {
+      "number": "01",
+      "title": "Beratung",
+      "text": "Jedes Projekt ist einzigartig. Unsere Planer haben die Erfahrung, um Ihre Wünsche umzusetzen.",
+      "icon": "/assets/icon-1.png"
+    },
+    {
+      "number": "02",
+      "title": "Planung",
+      "text": "Planen im Stil eines Architekten: Ästhetik, Energie-Konzepte und Eleganz zum Vorteil.",
+      "icon": "/assets/icon-2.png"
+    },
+    {
+      "number": "03",
+      "title": "Umsetzung",
+      "text": "Unser Partnerunternehmen setzt Projekte mit Zuverlässigkeit um – ganz nach Ihren Vorstellungen.",
+      "icon": "/assets/icon-3.png"
+    },
+    {
+      "number": "04",
+      "title": "Abnahme",
+      "text": "Die örtliche Bauaufsicht sorgt für die Einhaltung von geltenden Standards und Normen.",
+      "icon": "/assets/icon-4.png"
+    },
+    {
+      "number": "05",
+      "title": "Home Staging",
+      "text": "Komplettes Raumerlebnis – bei Objekt-Verkauf richten wir auf Wunsch eine Musterwohnung ein.",
+      "icon": "/assets/icon-6.png"
+    },
+    {
+      "number": "06",
+      "title": "Sales",
+      "text": "Über das Makler Büro unseres Vertrauens bieten wir Immobilienobjekte zum Verkauf an.",
+      "icon": "/assets/icon-5.png"
+    }
+  ],
+  "partners": [
+    {
+      "name": "FSM-Logo",
+      "image": "/assets/FSM-Logo-1.png",
+      "url": "https://www.fsm.law/"
+    },
+    {
+      "name": "JP Immobilien",
+      "image": "/assets/jp-immobilien-official.svg",
+      "url": "https://jpi.at/",
+      "role": "Makler",
+      "credit": "© JP Immobilien"
+    },
+    {
+      "name": "AP-Logo",
+      "image": "/assets/AP-Logo-1.png",
+      "url": "https://www.hausverwaltung-paleczek.at/"
+    },
+    {
+      "name": "Wiethoma",
+      "image": "/assets/Wiethoma.png",
+      "url": "https://www.dba-anlagen.at/"
+    },
+    {
+      "name": "Kosari-Logo",
+      "image": "/assets/Kosari-Logo.png",
+      "url": "https://www.kosari-architekten.at/"
+    },
+    {
+      "name": "Jägersberger",
+      "image": "/assets/Jaegersberger.png",
+      "url": "http://www.jägersberger.at/"
+    },
+    {
+      "name": "Ing.-Jenewein",
+      "image": "/assets/Ing.-Jenewein.png",
+      "url": "https://www.jenne-wein.at/"
+    }
+  ],
+  "homeText": [
+    "Willkommen in der visionären Welt der Space Architects. Wir schaffen Wohnraum zum Wohlfühlen. Jedes Detail hat eine Aufgabe und nichts wird dem Zufall überlassen.",
+    "Einzigartige Architektur, individuell gestalteter Wohnraum, Rundum-Wohlfühlen – das können Sie von uns erwarten.",
+    "Wir bieten von der Planung, über Bau und Innenausstattung, bis zum Verkauf, alles aus einer Hand in Zusammenarbeit mit konzessionierten Professionisten. Die SA-I sorgt dafür, dass Ihr Projekt zum Erfolg wird.",
+    "Machen Sie sich selbst ein Bild von unserem Unternehmen. Kontaktieren Sie SA-Immobilien noch heute, wir beraten Sie gerne. Unser Team steht Ihnen mit Rat und Tat zur Verfügung."
+  ],
+  "aboutText": [
+    "Unser Team setzt sich aus erfahrenen Planern und Architekten zusammen. Fachkompetenz und Professionalität auf höchstem Niveau zeichnen uns aus.",
+    "Wir bauen nicht einfach Häuser, sondern wir schaffen Wohnraum. Nachhaltige Energiekonzepte, funktionelle Nutzung und stilvolle Umsetzung – das bieten wir unseren Kunden.",
+    "Verschaffen Sie sich einen ersten Eindruck anhand unserer Referenzprojekte oder machen Sie sich persönlich ein Bild, indem Sie uns direkt kontaktieren.",
+    "E-Mail: ak@sa-i.at",
+    "E-Mail: planer1@nvo.co.at",
+    "– Individuelle Planung – Gewissenhafte Umsetzung – Funktionale Nutzung – Moderne Energiekonzepte – Ästhetisches Gesamtbild"
+  ],
+  "serviceText": [
+    "Wir bieten umfassende Leistungen aus einer Hand in Zusammenarbeit mit konzessionierten Architekten, Bauingenieure, Bauphysiker, Baumeister, Bauleiter, Brandschutz Gutachter, Lichtplaner, Einrichter und viele mehr. Geplant von Architekten, umgesetzt von zuverlässigen Bauunternehmen unter Einhaltung aller Standards – mit dem Ergebnis vollster Zufriedenheit."
+  ]
+}

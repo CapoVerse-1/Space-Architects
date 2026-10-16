@@ -1,0 +1,24 @@
+{
+  "name": "sa-i-modernized-react",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.25.0",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "dev": "vite --host 127.0.0.1 --port 5181 --strictPort",
+    "build": "node scripts/check-assets.mjs && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 5181 --strictPort"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "vite": "^7.1.9"
+  }
+}
